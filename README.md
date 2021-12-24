@@ -915,7 +915,7 @@ module.exports = {
 
 # 总结
 
-- 文档 以及 demo 中 只使用到了部分 `tailwind` 的部分类
+- 文档 以及 demo 中 只使用到了 `tailwind` 的部分类
 
 - 自定义扩展部分，可以让我们有很大的发挥空间
 
